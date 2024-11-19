@@ -2,12 +2,7 @@ import React, {useState} from 'react';
 import {
   View,
   Text,
-  TextInput,
-  Button,
-  Alert,
   TouchableOpacity,
-  ToastAndroid,
-  FlatList,
   StyleSheet,
   SectionList,
   StatusBar,
